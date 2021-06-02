@@ -1,0 +1,9 @@
+.styling-dots{
+  text-align: center;
+  margin-top: 20px;
+}
+.styling-dots li{
+  list-style-type: none;
+  display: inline-block;
+  padding-left: 10px;
+}
